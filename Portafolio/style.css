@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(20, 55, 104)
+color: rgb(179, 0, 255);
+font-size: 100px;
+}
+h1{
+color: #2e4e88;
+font-size: 20px;
+}
+p{
+    color:rgb(51, 89, 146)
+}
+
+
+div{
+    background-color: #AAAA;
+    padding: 20px;
+    border-radius: rounder border;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: #FF00AA;
+    margin-left: 50px ;
+}
+
+img {
+    border-radius: 30px;
+}
