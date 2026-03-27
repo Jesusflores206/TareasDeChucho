@@ -1,0 +1,41 @@
+body 
+{
+    background-color:  #9999ff;
+    color: #e5e768; 
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 3rem;
+    background-color: #574F8C;
+}
+
+h1 {
+    color: #BFBCBA;
+    font-size: 80px; 
+    margin-top: 30px;
+}
+
+img {
+    width: 450px; 
+    border-radius: 15px;
+    margin: 350px;
+    background-color: #574F8C;
+    padding: 10px;
+}
+
+a {
+    color: #400101;
+    font-size: 40px;
+    pad: 10px;
+}
+
+.modelos{
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    width: 850px; 
+    background-color: #9999ff;
+}
