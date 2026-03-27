@@ -15,6 +15,7 @@ nav{
 
 h1 {
     color: #BFBCBA;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 80px; 
     margin-top: 30px;
 }
@@ -22,7 +23,7 @@ h1 {
 img {
     width: 450px; 
     border-radius: 15px;
-    margin: 350px;
+    margin: 25px;
     background-color: #574F8C;
     padding: 10px;
 }
@@ -33,9 +34,6 @@ a {
     pad: 10px;
 }
 
-.modelos{
-    display: grid;
-    grid-template-columns: repeat(3, 3fr);
-    width: 850px; 
-    background-color: #9999ff;
+p{
+    color: azure;
 }
