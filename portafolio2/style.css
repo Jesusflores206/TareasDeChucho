@@ -1,7 +1,7 @@
 body 
 {
-    background-color:  #9999ff;
-    color: #e5e768; 
+    background-color: #1B2A4A;
+    color: #e4c308; 
     font-family: Arial, sans-serif;
     text-align: center;
 }
@@ -10,26 +10,40 @@ nav{
     justify-content: space-between;
     align-items: center;
     padding: 1.5rem 3rem;
-    background-color: #574F8C;
+    background-color:  #2E4A7A;
 }
 
 h1 {
-    color: #BFBCBA;
-    font-family: 'Times New Roman', Times, serif;
+    color:  #d1d1e0;
+    font-family: 'DM Serif Display', serif;
     font-size: 80px; 
     margin-top: 30px;
 }
 
-img {
+h2{
+    color: #ffcc00;
+    font-family: 'DM Serif Display', serif;
+    font-size: 60px;
+    margin-top: 20px;
+}
+
+.fotoprincipal img {
     width: 450px; 
-    border-radius: 15px;
+    border-radius: 50%;
     margin: 25px;
-    background-color: #574F8C;
+    background-color:  #ffcc00;
     padding: 10px;
 }
 
+.modelos3d img{
+    width: 450px; 
+    margin: 15px;
+    background-color:  #ffcc00;
+    padding: 5px;
+}
+
 a {
-    color: #400101;
+    color: #ffffff;
     font-size: 40px;
     pad: 10px;
 }
