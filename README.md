@@ -1,7 +1,7 @@
 # UEA Tareas
 Mis datos: 
 Jesús Flores Carbajal, Comunicación Creativa En Cultura Digital, Arte y Comunicaciones Digitales, 5to trimestre
-![Jesús Flores Carbajal](assets/Amigos.jpeg)
+<img src="portafolio2/assets/Amigos.jpeg" alt="Jesús Flores Carbajal">
 
 ---
 ## Sobre mi repositorio
